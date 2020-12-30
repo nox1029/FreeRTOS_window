@@ -1,0 +1,9 @@
+﻿  main.c
+  supporting_functions.c
+  tasks.c
+  queue.c
+  port.c
+  heap_4.c
+  list.c
+  코드를 생성하고 있습니다...
+  Example002.vcxproj -> D:\1.Study\12.FreeRTOS\source-code-for-book-examples\source-code-for-book-examples\Win32-simulator-MSVC\Debug\Example002.exe

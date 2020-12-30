@@ -1,0 +1,10 @@
+﻿  main.c
+d:\1.study\12.freertos\source-code-for-book-examples\source-code-for-book-examples\win32-simulator-msvc\examples\example010\main.c : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  supporting_functions.c
+  tasks.c
+  queue.c
+  port.c
+  heap_4.c
+  list.c
+  코드를 생성하고 있습니다...
+  Example010.vcxproj -> D:\1.Study\12.FreeRTOS\source-code-for-book-examples\source-code-for-book-examples\Win32-simulator-MSVC\Debug\Example010.exe
